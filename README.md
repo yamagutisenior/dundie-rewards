@@ -1,4 +1,4 @@
-Projeto Dundie Rewards
+# Projeto Dundie Rewards
 
 Nós fomos contratados pela Dunder Mifflin, grande fabricante de papéis para desenvolver um sistema de recompensas para seus colaboradores.
 
@@ -8,4 +8,4 @@ O funcionário pode uma vez a cada ano resgatar seus pontos em um cartão de cr�
 
 Acordamos em contrato que o MVP (Minimum Viable Product) será uma versão para ser executada no terminal e que no futuro terá também as interfaces UI, web e API.
 
-Os dados dos funcionários atuais serão fornecidos em um arquivo que pode ser no formato .csv ou .json e este mesmo arquivo poderá ser usado para versões futuras. Nome, Depto, Cargo, Email
+Os dados dos funcionários atuais serão fornecidos em um arquivo que pode ser no formato .csv ou .json e este mesmo arquivo poderá ser usado para versões futuras. `Nome, Depto, Cargo, Email`
